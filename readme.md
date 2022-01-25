@@ -2,7 +2,7 @@
 
 **Filim** is a movie application which is made for downloading the torrent movies. It covers all the genre and category of movies. It is used for downloading the torrent file for the movies.
 
-**Demo**
+**Demo**<br><br>
 ![Video](movie_app/filim.gif)
 
 [Download App here](https://drive.google.com/file/d/1iGEAAmzfMutDsDlC9foqNS82A1jdxMIL/view?usp=sharing)
