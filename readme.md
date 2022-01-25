@@ -62,6 +62,8 @@ Until now, this application doesn't strictly follows the pattern of clean code a
 
 - [x] custom animation in favorite button
 
+![Image alt text](movie/video.mp4)
+
 [Download App here](https://drive.google.com/file/d/1iGEAAmzfMutDsDlC9foqNS82A1jdxMIL/view?usp=sharing)
 
 Thank you for being here :smile:
