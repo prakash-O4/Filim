@@ -13,29 +13,17 @@ This application is divided into the three:
 Until now, this application doesn't strictly follows the pattern of clean code architecture but this application follows the layout of the clean code architecture along with the main principle.
 
 ## Packages Used
-
-| Package Name | Version |Purpose|
-
+| Package Name         | Version |Purpose|
 |--------------|:-----:|:-----:|
-
-| Flutter_bloc | ^7.0.1 |Used for state management|
-
-| cached_network_image | ^3.0.0| Used for caching the image from internet |
-
-| carousel_slider | ^4.0.0 | used for creating animated slider |
-
-| connectivity | ^3.0.6 |used for checking internet connection|
-
-| equatable | ^2.0.2 |used for comparing the objects|
-
-| hive | ^2.0.4 |used for local database|
-
-| http | ^0.13.3 |used for the network call|
-
-| path_provider | ^2.0.5 |used to get the path from device|
-
+| Flutter_bloc |  ^7.0.1 |Used for state management|
+| cached_network_image      |  ^3.0.0| Used for caching the image from internet |
+| carousel_slider |  ^4.0.0 | used for creating animated slider |
+| connectivity      |   ^3.0.6 |used for checking internet connection|
+| equatable |  ^2.0.2 |used for comparing the objects|
+| hive      |  ^2.0.4 |used for local database|
+| http |   ^0.13.3 |used for the network call|
+| path_provider      |  ^2.0.5 |used to get the path from device|
 |shimmer|^2.0.0|used for creating animating loading effect|
-
 |youtube_player_flutter| ^8.0.0|used for playing the video from youtube|
 
 ## Features of Application
