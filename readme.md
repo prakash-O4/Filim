@@ -62,7 +62,7 @@ Until now, this application doesn't strictly follows the pattern of clean code a
 
 - [x] custom animation in favorite button
 
-![Video](movie_app/video.mp4)
+![Video](movie_app/filim.gif)
 
 [Download App here](https://drive.google.com/file/d/1iGEAAmzfMutDsDlC9foqNS82A1jdxMIL/view?usp=sharing)
 
